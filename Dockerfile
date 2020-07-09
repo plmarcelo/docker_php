@@ -1,4 +1,4 @@
-FROM php:7.2.1-apache
+FROM php:7.3.19-apache-stretch
 
 MAINTAINER Pedro de la Lastra <plmarcelo@gmail.com>
 

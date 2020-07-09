@@ -1,2 +1,2 @@
-# docker_php72
-Imágen de Docker con PHP 7.2 + XDebug
+# docker_php
+Esta versión incluye la version 7.3.19 de PHP y XDebug
